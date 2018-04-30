@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation i\assignment 01\physics_assignment_01\physics_assignment_01\main.cpp(105): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation i\assignment 01\physics_assignment_01\physics_assignment_01\main.cpp(108): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation i\assignment 01\physics_assignment_01\physics_assignment_01\main.cpp(111): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation i\assignment 01\physics_assignment_01\physics_assignment_01\main.cpp(114): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation i\assignment 01\physics_assignment_01\physics_assignment_01\main.cpp(433): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation i\assignment 01\physics_assignment_01\physics_assignment_01\main.cpp(409): warning C4101: 'v1temp': unreferenced local variable
+  Physics_Assignment_01.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Physics and Simulation I\Assignment 01\Physics_Assignment_01\Debug\Physics_Assignment_01.exe
+  Physics_Assignment_01.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Physics and Simulation I\Assignment 01\Physics_Assignment_01\Debug\Physics_Assignment_01.pdb (Partial PDB)
